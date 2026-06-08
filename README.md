@@ -42,6 +42,12 @@ The objective of this project is to analyze how Bitcoin market sentiment impacts
 - Extreme Greed produced highest win rate and profitability
 - Traders increased position sizes during Fear phases, indicating risk-seeking behavior during downturns
 
+## Future Improvements
+
+- Predict trader profitability using machine learning models
+- Real-time sentiment integration via API
+- Build dashboard using Streamlit or Power BI
+
 ## Conclusion
 
 The analysis indicates that market sentiment has a measurable impact on trader behavior and performance. Fear periods were associated with higher activity and larger position sizes, while Extreme Greed delivered the strongest profitability and win rates.
